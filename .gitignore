@@ -1,0 +1,4 @@
+materials/
+guides/
+*.o
+a.out
